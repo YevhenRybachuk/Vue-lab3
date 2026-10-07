@@ -15,4 +15,6 @@ export interface User {
     date: string
     age: number
   }
+  hobbies: string[]
+  details: string
 }
