@@ -1,24 +1,242 @@
-{
-  "gender": "male",
-  "name": {
-    "first": "Олександр",
-    "last": "Коваленко"
+[
+  {
+    "gender": "male",
+    "name": {
+      "first": "Олександр",
+      "last": "Коваленко"
+    },
+    "location": {
+      "city": "Чернівці",
+      "country": "Україна"
+    },
+    "email": "oleksandr.kovalenko@example.com",
+    "phone": "+380 67 123 45 67",
+    "picture": "/users/men-1.jpg",
+    "dob": {
+      "date": "2001-05-15",
+      "age": 25
+    },
+    "hobbies": [
+      "Програмування",
+      "Футбол",
+      "Комп'ютерні ігри"
+    ],
+    "details": "Студент, який цікавиться програмуванням та сучасними технологіями."
   },
-  "location": {
-    "city": "Чернівці",
-    "country": "Україна"
+  {
+    "gender": "female",
+    "name": {
+      "first": "Анна",
+      "last": "Мельник"
+    },
+    "location": {
+      "city": "Львів",
+      "country": "Україна"
+    },
+    "email": "anna.melnyk@example.com",
+    "phone": "+380 63 234 56 78",
+    "picture": "/users/women-1.jpg",
+    "dob": {
+      "date": "2003-08-21",
+      "age": 23
+    },
+    "hobbies": [
+      "Малювання",
+      "Читання",
+      "Подорожі"
+    ],
+    "details": "Студентка, яка захоплюється мистецтвом та подорожами."
   },
-  "email": "oleksandr.kovalenko@example.com",
-  "phone": "+380 67 123 45 67",
-  "picture": "/users/men-1.jpg",
-  "dob": {
-    "date": "2001-05-15",
-    "age": 25
+  {
+    "gender": "male",
+    "name": {
+      "first": "Максим",
+      "last": "Бондаренко"
+    },
+    "location": {
+      "city": "Київ",
+      "country": "Україна"
+    },
+    "email": "maksym.bondarenko@example.com",
+    "phone": "+380 50 345 67 89",
+    "picture": "/users/men-2.jpg",
+    "dob": {
+      "date": "1998-02-10",
+      "age": 28
+    },
+    "hobbies": [
+      "Футбол",
+      "Автомобілі",
+      "Музика"
+    ],
+    "details": "Цікавиться автомобілями, спортом та музикою."
   },
-  "hobbies": [
-    "Програмування",
-    "Футбол",
-    "Комп'ютерні ігри"
-  ],
-  "details": "Студент, який цікавиться програмуванням та сучасними технологіями."
-}
+  {
+    "gender": "female",
+    "name": {
+      "first": "Софія",
+      "last": "Шевченко"
+    },
+    "location": {
+      "city": "Одеса",
+      "country": "Україна"
+    },
+    "email": "sofia.shevchenko@example.com",
+    "phone": "+380 66 456 78 90",
+    "picture": "/users/women-2.jpg",
+    "dob": {
+      "date": "1995-11-03",
+      "age": 30
+    },
+    "hobbies": [
+      "Фотографія",
+      "Кіно",
+      "Танці"
+    ],
+    "details": "Займається фотографією та сучасними танцями."
+  },
+  {
+    "gender": "male",
+    "name": {
+      "first": "Дмитро",
+      "last": "Ткаченко"
+    },
+    "location": {
+      "city": "Харків",
+      "country": "Україна"
+    },
+    "email": "dmytro.tkachenko@example.com",
+    "phone": "+380 67 567 89 01",
+    "picture": "/users/men-3.jpg",
+    "dob": {
+      "date": "1987-06-18",
+      "age": 39
+    },
+    "hobbies": [
+      "Риболовля",
+      "Туризм",
+      "Гітара"
+    ],
+    "details": "Любить активний відпочинок, туризм та музику."
+  },
+  {
+    "gender": "female",
+    "name": {
+      "first": "Марія",
+      "last": "Іваненко"
+    },
+    "location": {
+      "city": "Вінниця",
+      "country": "Україна"
+    },
+    "email": "maria.ivanenko@example.com",
+    "phone": "+380 93 678 90 12",
+    "picture": "/users/women-3.jpg",
+    "dob": {
+      "date": "1972-04-25",
+      "age": 54
+    },
+    "hobbies": [
+      "Кулінарія",
+      "Садівництво",
+      "Читання"
+    ],
+    "details": "Цікавиться кулінарією, садівництвом та літературою."
+  },
+  {
+    "gender": "male",
+    "name": {
+      "first": "Андрій",
+      "last": "Мороз"
+    },
+    "location": {
+      "city": "Тернопіль",
+      "country": "Україна"
+    },
+    "email": "andrii.moroz@example.com",
+    "phone": "+380 97 789 01 23",
+    "picture": "/users/men-4.jpg",
+    "dob": {
+      "date": "2006-09-12",
+      "age": 20
+    },
+    "hobbies": [
+      "Програмування",
+      "Ігри",
+      "Баскетбол"
+    ],
+    "details": "Молодий програміст, який захоплюється спортом та технологіями."
+  },
+  {
+    "gender": "female",
+    "name": {
+      "first": "Олена",
+      "last": "Романюк"
+    },
+    "location": {
+      "city": "Івано-Франківськ",
+      "country": "Україна"
+    },
+    "email": "olena.romaniuk@example.com",
+    "phone": "+380 68 890 12 34",
+    "picture": "/users/women-4.jpg",
+    "dob": {
+      "date": "2007-01-30",
+      "age": 19
+    },
+    "hobbies": [
+      "Малювання",
+      "Музика",
+      "Книги"
+    ],
+    "details": "Школярка, яка любить мистецтво та музику."
+  },
+  {
+    "gender": "male",
+    "name": {
+      "first": "Віктор",
+      "last": "Петренко"
+    },
+    "location": {
+      "city": "Полтава",
+      "country": "Україна"
+    },
+    "email": "viktor.petrenko@example.com",
+    "phone": "+380 99 901 23 45",
+    "picture": "/users/men-5.jpg",
+    "dob": {
+      "date": "1964-12-07",
+      "age": 61
+    },
+    "hobbies": [
+      "Риболовля",
+      "Шахи",
+      "Історія"
+    ],
+    "details": "Захоплюється історією, шахами та риболовлею."
+  },
+  {
+    "gender": "female",
+    "name": {
+      "first": "Наталія",
+      "last": "Сидоренко"
+    },
+    "location": {
+      "city": "Дніпро",
+      "country": "Україна"
+    },
+    "email": "nataliia.sydorenko@example.com",
+    "phone": "+380 73 012 34 56",
+    "picture": "/users/women-5.jpg",
+    "dob": {
+      "date": "1982-07-14",
+      "age": 17
+    },
+    "hobbies": [
+      "Йога",
+      "Подорожі",
+      "Фотографія"
+    ],
+    "details": "Любить подорожі, фотографію та активний спосіб життя."
+  }
+]
